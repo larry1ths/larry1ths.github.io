@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,700);
+=======
+<<<<<<< HEAD
+=======
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,700);
+>>>>>>> master
+>>>>>>> new-index
 /*!
  * Bootstrap v3.2.0 (http://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
@@ -10,8 +17,20 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
+<<<<<<< HEAD
 body {
   margin: 0;
+=======
+<<<<<<< HEAD
+
+body {
+  margin: 0;
+  background: url('img/squares.png')
+=======
+body {
+  margin: 0;
+>>>>>>> master
+>>>>>>> new-index
 }
 article,
 aside,
@@ -6222,3 +6241,10 @@ section div > h3 {
 	padding: 0;
 	margin: 0;
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+.skills .text-justify { border-bottom: 1px solid #eee;}
+=======
+>>>>>>> master
+>>>>>>> new-index
