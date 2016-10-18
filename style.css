@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,700);
+>>>>>>> master
 =======
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,700);
 >>>>>>> master
@@ -14,10 +18,15 @@ html {
       -ms-text-size-adjust: 100%;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 body {
   margin: 0;
   background: url('img/squares.png')
+=======
+body {
+  margin: 0;
+>>>>>>> master
 =======
 body {
   margin: 0;
@@ -6233,6 +6242,9 @@ section div > h3 {
 	margin: 0;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 .skills .text-justify { border-bottom: 1px solid #eee;}
+=======
+>>>>>>> master
 =======
 >>>>>>> master
